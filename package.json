@@ -2,13 +2,13 @@
 	"name": "type.util",
 	"version": "1.0.7",
 	"keywords": [],
-	"homepage": "https://github.com/anzerr/type.util#readme",
+	"homepage": "https://github.com/Product-Live/type.util#readme",
 	"bugs": {
-		"url": "https://github.com/anzerr/type.util/issues"
+		"url": "https://github.com/Product-Live/type.util/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:anzerr/type.util.git"
+		"url": "git@github.com:Product-Live/type.util.git"
 	},
 	"license": "MIT",
 	"author": "anzerr",
@@ -21,7 +21,7 @@
 		"extends": "eslint-config-basic"
 	},
 	"devDependencies": {
-		"eslint-config-basic": "git+https://git@github.com/anzerr/eslintrc.git"
+		"eslint-config-basic": "git+https://git@github.com/Product-Live/eslintrc.git"
 	},
 	"engines": {
 		"node": ">= 0.10.0"
