@@ -1,6 +1,6 @@
 {
 	"name": "@product-live/type.util",
-	"version": "1.0.9",
+	"version": "1.0.10",
 	"keywords": [],
 	"homepage": "https://github.com/Product-Live/type.util#readme",
 	"bugs": {
@@ -15,7 +15,7 @@
 	"main": "index.js",
 	"types": "index.d.ts",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "echo \"Error: no test specified\""
 	},
 	"eslintConfig": {
 		"extends": "eslint-config-basic"
